@@ -21,4 +21,7 @@ public class Funcionario {
     public void cadastrarEndereco(Endereco end){
         this.end = end;
     }
+    public int getNumero(){
+        return end.numero;
+    }
 }
