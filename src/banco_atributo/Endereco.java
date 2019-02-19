@@ -11,7 +11,7 @@ package banco_atributo;
  */
 public class Endereco {
     String rua;
-    int numero;
+    String numero;
     String bairro;
     String cidade;
     
