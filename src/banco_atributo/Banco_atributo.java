@@ -16,7 +16,7 @@ public class Banco_atributo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Funcionario funcionario = new Funcionario();
+        FuncionarioBanco funcionario = new FuncionarioBanco();
     }
     
 }

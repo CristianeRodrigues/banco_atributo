@@ -9,7 +9,7 @@ package banco_atributo;
  *
  * @author Cristiane
  */
-public class Funcionario {
+public class FuncionarioBanco {
     int codigo;
     String função;
     Endereco end;
@@ -17,6 +17,7 @@ public class Funcionario {
     public void setCodigo(int codigo){
         this.codigo = codigo;
         System.out.println("código");
+        System.out.println("código do funcionario");
     }
     
     public void cadastrarEndereco(Endereco end){
