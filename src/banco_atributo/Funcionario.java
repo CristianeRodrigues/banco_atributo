@@ -16,10 +16,12 @@ public class Funcionario {
     
     public void setCodigo(int codigo){
         this.codigo = codigo;
+        System.out.println("codigo");
     }
     
     public void cadastrarEndereco(Endereco end){
         this.end = end;
+        System.out.println("endereco");
     }
     public int getNumero(){
         return end.numero;
