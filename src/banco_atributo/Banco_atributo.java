@@ -16,6 +16,8 @@ public class Banco_atributo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        FuncionarioBanco funcionario = new FuncionarioBanco();
+        funcionario.setCodigo(500);
     }
     
 }

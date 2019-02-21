@@ -9,7 +9,7 @@ package banco_atributo;
  *
  * @author Cristiane
  */
-public class Funcionario {
+public class FuncionarioBanco {
     int codigo;
     String função;
     Endereco end;
